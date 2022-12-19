@@ -1,0 +1,6 @@
+requests
+os
+time
+threading
+fade
+colorama
